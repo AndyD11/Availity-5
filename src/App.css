@@ -1,0 +1,9 @@
+.form-container {
+  max-width: 1024px;
+  margin: 100px auto;
+}
+
+.form-header {
+  display: flex;
+  justify-content: center;
+}
